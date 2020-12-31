@@ -10,7 +10,7 @@
 - **CSS** Based Scrollbar examples.
 - *Source Codes* and more ..
 
-# 🙏 Recommended Scrollbars
+# 🙏 Recommended Scrollbars :sunglasses:
 - Normal
 - Sky
 - Solid
