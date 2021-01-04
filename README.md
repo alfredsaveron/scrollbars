@@ -22,5 +22,5 @@
 - <a href="https://codepen.io">Codepen</a>
 
 # Related Links
-- <a href="https://github.com/KaguwoNetwork">Kaguwo's Network</a>
+- <a href="https://github.com/AestasFlores">Aestas Flores</a>
 - <a href="https://alfreddo.ga/">Portfolio</a>
