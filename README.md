@@ -1,7 +1,16 @@
-# 📝 Custom Scrollbars
-:snowflake: This is a simple Custom Scrollbar repository, You can find multiple features and multiple Scrollbars here. If you have one that you like, be sure to use it. If this resource has been useful to you, please don't forget to Star and Fork!
+<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/wrapped-gift_1f381.png"></p>
 
-# 📩 So what can I find here?
+<h1 align="center">Custom Scrollbars</h1>
+<h4 align="center">While this project is being done; used HTML, CSS.</h4>
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## What's This?
+This is a simple Custom Scrollbar repository, You can find multiple features and multiple Scrollbars here. If you have one that you like, be sure to use it. If this resource has been useful to you, please don't forget to Star and Fork!
+
+## So what can I find here?
 - Many **customizable** Scrollbar instances.
 - Special and exclusive *colors*!
 - Developed projects from **Codepen**.
@@ -10,17 +19,16 @@
 - **CSS** Based Scrollbar examples.
 - *Source Codes* and more ..
 
-# 🙏 Recommended Scrollbars :sunglasses:
+## Recommended Scrollbars :sunglasses:
 - Normal
 - Sky
 - Solid
 - Green
 - Special
 
-# 💁‍♂️ Sources
-- <a href="https://w3schools.com">w3schools</a>
-- <a href="https://codepen.io">Codepen</a>
+##
 
-# Related Links
-- <a href="https://github.com/AestasFlores">Aestas Flores</a>
-- <a href="https://alfreddo.ga/">Portfolio</a>
+<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/271/party-popper_1f389.png"></p>
+
+<h1 align="center">Other Links?!</h1>
+<h4 align="center"> <a href="https://github.com/AestasFlores">Aestas Flores</a> — <a href="https://alfreddo.ga">Portfolio</a></h4>
