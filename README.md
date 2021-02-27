@@ -1,4 +1,4 @@
-<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/wrapped-gift_1f381.png"></p>
+<p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/artist-palette_1f3a8.png"></p>
 
 <h1 align="center">Custom Scrollbars</h1>
 <h4 align="center">While this project is being done; used HTML, CSS.</h4>
