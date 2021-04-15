@@ -1,0 +1,25 @@
+::-webkit-scrollbar{
+  background: #ddd;
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  box-shadow: inset 0 0 10px #00000070;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+  background: linear-gradient(125deg,#28a745,#34495e);
+  border-radius: 10px;
+}
+
+::-moz-scrollbar{
+  background: #ddd;
+  width: 14px;
+}
+::-moz-scrollbar-track{
+  box-shadow: inset 0 0 10px #00000070;
+  border-radius: 10px;
+}
+::-moz-scrollbar-thumb{
+  background: linear-gradient(125deg,#28a745,#34495e);
+  border-radius: 10px;
+}
