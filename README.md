@@ -31,4 +31,4 @@ This is a simple Custom Scrollbar repository, You can find multiple features and
 <p align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/271/party-popper_1f389.png"></p>
 
 <h1 align="center">Other Links?!</h1>
-<h4 align="center"> <a href="https://github.com/AestasFlores">Aestas Flores</a> — <a href="https://alfreddo.ga">Portfolio</a></h4>
+<h4 align="center"> <a href="https://alfs.ga">Website</a></h4>
