@@ -19,7 +19,7 @@ This is a simple Custom Scrollbar repository, You can find multiple features and
 - **CSS** Based Scrollbar examples.
 - *Source Codes* and more ..
 
-## Recommended Scrollbars :sunglasses:
+## Recommended Scrollbars:
 - Normal
 - Sky
 - Solid
