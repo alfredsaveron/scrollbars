@@ -1,1 +1,12 @@
-body::-webkit-scrollbar{width: 6px;}body::-webkit-scrollbar-thumb{background: #7289da;}body::-webkit-scrollbar-track{background: #FFFFFF;}
+/* github.com/alfredsaveron/scrollbars/Blurple */
+::-webkit-scrollbar {
+width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+background: #7289da;
+}
+
+::-webkit-scrollbar-track {
+background: #FFFFFF;
+}
