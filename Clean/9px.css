@@ -1,3 +1,4 @@
+/* github.com/alfredsaveron/scrollbars/Clean */
 ::-webkit-scrollbar {
 	width: 9px;
 } 
@@ -13,5 +14,5 @@
 	background-repeat:no-repeat;
 }
 ::-webkit-scrollbar-thumb:vertical:active {
-	background-color: #aec5d8;
+	background-color: #aec5d8; /* Hello, you're cool. */
 }
