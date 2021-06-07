@@ -1,15 +1,13 @@
-/* width */
+/* github.com/alfredsaveron/scrollbars/Background */
 ::-webkit-scrollbar {
   width: 12px;
 }
  
-/* Handle */
 ::-webkit-scrollbar-thumb {
   background: #7289da; 
   border-radius: 10px;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: #242424; 
 }
