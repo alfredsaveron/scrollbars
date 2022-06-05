@@ -22,5 +22,5 @@ This is a simple Custom Scrollbar repository, You can find multiple features and
 
 <img width="15%" align="right" src="https://cdn.discordapp.com/attachments/831447689274851339/851523678591254589/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f.png">
 
-<h2 align="left">Other Links:</h2>
-<h4 align="left"> <a href="https://alfs.ga">Website</a>, <a href="https://github.com/alfredsaveron">@alfredsaveron</a>
+<h2 align="left">Related Links:</h2>
+<h4 align="left"> <a href="https://alfsaveron.me">Website</a>, <a href="https://github.com/alfredsaveron">@alfredsaveron</a>
