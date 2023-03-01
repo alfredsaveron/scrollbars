@@ -16,4 +16,4 @@ This is a simple Custom Scrollbar repository, You can find multiple features and
 - *Source Codes* and probably more
 
 ## Contributors
-<h4 align="left"> <a href="https://alfsaveron.me">Website</a>, <a href="https://github.com/alfredsaveron">@alfredsaveron</a>, <a href="https://github.com/tarikcoskun">@tarikcoskun</a>
+<h4 align="left"> <a href="https://alfs.ga">Website</a>, <a href="https://github.com/alfredsaveron">@alfredsaveron</a>, <a href="https://github.com/tarikcoskun">@tarikcoskun</a>
