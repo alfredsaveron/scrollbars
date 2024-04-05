@@ -1,5 +1,4 @@
-![image](https://github.com/alfredsaveron/scrollbars/assets/57676676/773e49f8-7bd0-47f2-919f-51e7851dc101)
-
+![image](https://github.com/alfredsaveron/scrollbars/assets/57676676/dcd2c6fb-de47-48c5-b3c7-1aebc48ded1e)
 
 # Custom CSS Scrollbars 🦦
 
