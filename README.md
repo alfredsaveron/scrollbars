@@ -1,7 +1,6 @@
 # Custom CSS Scrollbars 🦦
-![Languages](https://skillicons.dev/icons?i=html,css)
 
-This is a simple Custom Scrollbar repository, You can find multiple features and multiple Scrollbars here. If you have one that you like, be sure to use it. Scrollbars made & redesigned by <a href="https://github.com/alfredsaveron">@alfredsaveron</a> and Scrollbar previews made by <a href="https://github.com/tarikcoskun">@tarikcoskun</a> 💻
+This is a simple Custom Scrollbar repository, You can find multiple features and multiple Scrollbars here. If you have one that you like, be sure to use it. Scrollbars made & redesigned by <a href="https://github.com/alfredsaveron">@alfredsaveron</a> and **I would like to thank [Tarik Coskun](https://github.com/tarikcoskun) for his kind contributions.**
 
 
 ## So what can I find here?
@@ -12,5 +11,5 @@ This is a simple Custom Scrollbar repository, You can find multiple features and
 - **CSS** Based Scrollbar examples.
 - *Source Codes* and probably more
 
-## Contributors
-<h4 align="left"> <a href="https://alfs.ga">Website</a>, <a href="https://github.com/alfredsaveron">@alfredsaveron</a>, <a href="https://github.com/tarikcoskun">@tarikcoskun</a>
+## Technologies:
+![Languages](https://skillicons.dev/icons?i=html,css)
