@@ -1,4 +1,4 @@
-![image](/prev.png)
+<img src="prev.png" alt="readme-image" width="1000"/>
 
 # Custom CSS Scrollbars 🦦
 
